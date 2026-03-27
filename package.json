@@ -1,0 +1,23 @@
+{
+  "name": "gestion_de_reservation",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Matteo-hub-01/Gestion_de_reservation#readme",
+  "bugs": {
+    "url": "https://github.com/Matteo-hub-01/Gestion_de_reservation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matteo-hub-01/Gestion_de_reservation.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test --coverage"
+  },
+  "dependencies": {
+    "jest": "^30.3.0"
+  }
+}
